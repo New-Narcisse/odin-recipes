@@ -1,0 +1,15 @@
+div {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsq6NwWiqa4kp2YxoHTIb6k-mCaPD1eFUrEw&usqp=CAU);
+    color: black;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    border: 2px transparent;
+  }
+  h3 {
+    background-color: transparent;
+    color: black;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+  }
