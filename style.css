@@ -5,6 +5,8 @@ div {
     text-align: center;
     font-weight: bold;
     border: 2px transparent;
+    padding-right: 300px;
+    padding-left: 300px;
   }
   h3 {
     background-color: transparent;
