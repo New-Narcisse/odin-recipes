@@ -1,17 +1,40 @@
 div {
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsq6NwWiqa4kp2YxoHTIb6k-mCaPD1eFUrEw&usqp=CAU);
-    color: black;
-    font-size: 32px;
-    text-align: center;
-    font-weight: bold;
-    border: 2px transparent;
-    padding-right: 300px;
-    padding-left: 300px;
-  }
-  h3 {
-    background-color: transparent;
-    color: black;
-    font-size: 32px;
-    text-align: center;
-    font-weight: bold;
-  }
+  background-color: white;
+  border: 2px solid black;
+  padding: 200px;
+  gap: 5px;
+  display: flex;
+  justify-content: center
+  align-items: center
+  
+  
+
+}
+.lasagna {
+  padding: 20px;
+  text-align: center;
+  background-color: rgb(153, 218, 238);
+  color: rgb(4, 34, 34);
+  height: ;
+  flex: 1;
+}
+.Lo_Mein {
+  padding: 20px;
+  text-align: center;
+  background-color: rgb(153, 218, 238);
+  color: rgb(4, 34, 34);
+  flex: 1;
+
+}
+.Chicken_Normandy {
+  padding: 20px;
+  text-align: center;
+  background-color: rgb(153, 218, 238);
+  color: rgb(4, 34, 34);
+  flex: 1;
+
+}
+h1 {
+  text-align: center;
+
+}
